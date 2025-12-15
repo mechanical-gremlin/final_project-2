@@ -1,1 +1,15 @@
+body {
+    background-color: rgb(173, 97, 173);
+}
 
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: bolder;
+    margin: 20px
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20; 
+}
