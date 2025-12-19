@@ -110,6 +110,11 @@ ul.nav_bar li a:hover {
 }
 
 
+ul.menu li {
+    float: left;
+}
+
+
 
 footer {
     background-color: rgb(143, 99, 138);
