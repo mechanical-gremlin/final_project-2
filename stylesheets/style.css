@@ -56,7 +56,7 @@ ul.nav_bar li a:hover {
     position: relative;
 }
 
-.menu_hero_image{
+.menu_hero_image img{
     /*background-image: url('../images/Menu.png');*/
     height: 250px;
     background-size: cover;
