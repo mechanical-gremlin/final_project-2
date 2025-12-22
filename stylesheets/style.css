@@ -57,7 +57,7 @@ ul.nav_bar li a:hover {
 }
 
 .menu_hero_image{
-    background-image: url('../images/Menu.png');
+    /*background-image: url('../images/Menu.png');*/
     height: 250px;
     background-size: cover;
     background-position: center;
